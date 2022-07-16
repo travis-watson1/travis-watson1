@@ -1,6 +1,4 @@
-<p align=center style="font-size: 24;">
-   Welcome!
-</p>
+<h1 align="center">Welcome!</h1>
 
 ---
 
